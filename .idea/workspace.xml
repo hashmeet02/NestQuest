@@ -4,74 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdd1e6aa-c24d-4299-acfa-f769fbc37e7c" name="Changes" comment="NativeWind configured">
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Rubik-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Rubik-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Rubik-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Rubik-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Rubik-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Rubik-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/area.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/back-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/bath.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/bed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/bell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/calendar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/car-park.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/chat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/cutlery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/dog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/dumbell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/edit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/filter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/google.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/info.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/language.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/laundry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/location.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/logout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/people.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/right-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/run.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/send.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/shield.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/swim.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/wallet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/wifi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/bar-chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/card-gradient.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/japan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/new-york.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/no-result.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/onboarding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/splash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/white-gradient.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/data.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/icons.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/images.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image.d.ts" afterDir="false" />
+    <list default="true" id="fdd1e6aa-c24d-4299-acfa-f769fbc37e7c" name="Changes" comment="trailing comma error fixed in app.json">
+      <change afterPath="$PROJECT_DIR$/lib/appwrite.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/(tabs)/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/sign-in.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/sign-in.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/SpaceMono-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/adaptive-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/partial-react-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/react-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/react-logo@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/react-logo@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +30,9 @@
     &quot;accountId&quot;: &quot;a3df43d1-60e7-407c-ab85-eea8e5fb2a0a&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -102,24 +42,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Personal Project/NestQuest",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.start.executor": "Run",
-    "settings.editor.selected.configurable": "preferences.sourceCode.HTML",
-    "ts.external.directory.path": "D:\\Personal Project\\NestQuest\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Personal Project/NestQuest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.HTML&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Personal Project\\NestQuest\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Personal Project\NestQuest" />
@@ -173,7 +113,8 @@
       <workItem from="1734996674224" duration="323000" />
       <workItem from="1734997073899" duration="141000" />
       <workItem from="1734997224956" duration="183000" />
-      <workItem from="1736360858796" duration="10774000" />
+      <workItem from="1736360858796" duration="11214000" />
+      <workItem from="1736795275872" duration="3214000" />
     </task>
     <task id="LOCAL-00001" summary="NativeWind configured">
       <option name="closed" value="true" />
@@ -183,7 +124,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736367149154</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="assets added from source">
+      <option name="closed" value="true" />
+      <created>1736375108769</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736375108769</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Sign In screen created.">
+      <option name="closed" value="true" />
+      <created>1736375142388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736375142388</updated>
+    </task>
+    <task id="LOCAL-00004" summary="trailing comma error fixed in app.json">
+      <option name="closed" value="true" />
+      <created>1736375273185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736375273185</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +167,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="NativeWind configured" />
-    <option name="LAST_COMMIT_MESSAGE" value="NativeWind configured" />
+    <MESSAGE value="assets added from source" />
+    <MESSAGE value="Sign In screen created." />
+    <MESSAGE value="trailing comma error fixed in app.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="trailing comma error fixed in app.json" />
   </component>
 </project>
